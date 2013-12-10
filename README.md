@@ -1,4 +1,4 @@
-angular-guide-zh-1.2.x
+angular-guide 中文翻译
 ======================
 
-angular-guide-zh-1.2.x
+
